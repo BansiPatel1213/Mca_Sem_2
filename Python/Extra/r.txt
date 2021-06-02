@@ -1,0 +1,6 @@
+Hallo GoodMorning
+Welcome To Python
+File Open 
+And
+File Close
+Add One More Line
